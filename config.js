@@ -3,17 +3,17 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的小可爱",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+       "My Dearest Daniel - Nguyen Hoang Tung",
+"Happy Birthday! Today, I want to say I'm sorry for the moments I've made you sad",
+"and thank you for the lessons of love and patience you've taught me.",
+"Your presence in my life has filled it with joy",
+"and taught me the true depth of love.",
+"I'm blessed to have you",
+"and promise to cherish, respect, and grow with you through all the days ahead.",
+"Together, we can face anything the future brings.",
+"With all my heart, I look forward to celebrating many more birthdays with you, each one better than the last.",
+"With all my love,"
+
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -30,13 +30,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "Bắt đầu",
+        play: "Âm nhạc",
+        bannar_coming: "Màu sắc",
+        balloons_flying: "Có vẻ như thiếu gì đó",
+        cake_fadein: "Bánh ngọt?",
+        light_candle: "Nến？",
+        wish_message: "Happy birthday Daniel.",
+        story: "Daniel à, chúc mừng sinh nhật em nhé.",
     }
 };
