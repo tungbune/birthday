@@ -30,13 +30,14 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Bắt đầu",
-        play: "Âm nhạc",
-        bannar_coming: "Màu sắc",
-        balloons_flying: "Có vẻ như thiếu gì đó",
-        cake_fadein: "Bánh ngọt?",
-        light_candle: "Nến？",
-        wish_message: "Happy birthday Daniel.",
-        story: "Daniel à, chúc mừng sinh nhật em nhé.",
+       turn_on: "Start",
+play: "Music",
+bannar_coming: "Colors",
+balloons_flying: "Seems like something's missing",
+cake_fadein: "Cake?",
+light_candle: "Candles?",
+wish_message: "Happy birthday Daniel.",
+story: "Daniel, happy birthday to you."
+
     }
 };
