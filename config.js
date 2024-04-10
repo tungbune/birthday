@@ -3,16 +3,12 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-       "My Dearest Daniel - Nguyen Hoang Tung",
-"Happy Birthday! Today, I want to say I'm sorry for the moments I've made you sad",
-"and thank you for the lessons of love and patience you've taught me.",
-"Your presence in my life has filled it with joy",
-"and taught me the true depth of love.",
-"I'm blessed to have you",
-"and promise to cherish, respect, and grow with you through all the days ahead.",
-"Together, we can face anything the future brings.",
-"With all my heart, I look forward to celebrating many more birthdays with you, each one better than the last.",
-"With all my love,"
+       "Chúc mừng sinh nhật bạn!"
+"Hy vọng tuổi mới này"
+    "mọi điều bạn mong ước sẽ trở thành hiện thực."
+"Ngày hôm nay,"
+    "hãy để mọi lo lắng qua một bên và tận hưởng từng khoảnh khắc bên cạnh những người bạn yêu thương."
+"Chúc bạn một ngày thật vui và tràn ngập tiếng cười!"
 
     ],
     /**
@@ -36,8 +32,8 @@ bannar_coming: "Colors",
 balloons_flying: "Seems like something's missing",
 cake_fadein: "Cake?",
 light_candle: "Candles?",
-wish_message: "Happy birthday Daniel.",
-story: "Daniel, happy birthday to you."
+wish_message: "Happy birthday Hoài Vũ.",
+story: "Vũ báo , happy birthday to you."
 
     }
 };
